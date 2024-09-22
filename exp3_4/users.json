@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Harber",
+        "age": 30,
+        "language": [
+            "MEAN",
+            "Express",
+            "NodeJS"
+        ]
+    },
+    {
+        "name": "Alex Young",
+        "age": 35,
+        "language": [
+            "Angular",
+            "MEAN",
+            "AngularJS"
+        ]
+    },
+    {
+        "name": "John",
+        "age": 21,
+        "language": [
+            "JavaScript",
+            "PHP",
+            "Python"
+        ]
+    },
+    {
+        "name": "Smith",
+        "age": 25,
+        "language": [
+            "PHP",
+            "Go",
+            "JavaScript"
+        ]
+    }
+    
+]
